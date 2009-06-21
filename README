@@ -1,0 +1,3 @@
+this class wraps GD image-manipulation-funcitons to access them with oop-style and gives some small but important extra-funcionality for fitting, cropping and scalling images.
+you can see it in action on toyflish.de
+
